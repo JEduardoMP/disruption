@@ -1,0 +1,548 @@
+{
+  "balance": [
+    {
+      "id": 0,
+      "mes": "Enero",
+      "balance_mes": 0,
+      "ingresos": 10000,
+      "egresos": 6000,
+      "movimientos": {
+        "2023-01-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-01-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          }
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "mes": "Febrero",
+      "balance_mes": 4000,
+      "ingresos": 10000,
+      "egresos": 9000,
+      "movimientos": {
+        "2023-02-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-02-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-02-15": [
+          {
+            "gasto": true,
+            "movimiento": "Restaurante",
+            "cantidad": 1000
+          }
+        ],
+        "2023-02-24": [
+          {
+            "gasto": true,
+            "movimiento": "Farmacia",
+            "cantidad": 500
+          }
+        ]
+      }
+    },
+     {
+      "id": 2,
+      "mes": "Marzo",
+      "balance_mes": 5000,
+      "ingresos": 11000,
+      "egresos": 13000,
+      "movimientos": {
+        "2023-03-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-03-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-03-15": [
+          {
+            "gasto": true,
+            "movimiento": "Restaurante",
+            "cantidad": 1000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Doctor",
+            "cantidad": 1000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Farmacia",
+            "cantidad": 1500
+          }
+        ],
+        "2023-03-24": [
+          {
+            "gasto": true,
+            "movimiento": "Bar",
+            "cantidad": 2000
+          },
+          {
+            "gasto": false,
+            "movimiento": "Transferencia",
+            "cantidad": 1000
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "mes": "Abril",
+      "balance_mes": 3000,
+      "ingresos": 11000,
+      "egresos": 13000,
+      "movimientos": {
+        "2023-04-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-04-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-04-15": [
+          {
+            "gasto": true,
+            "movimiento": "Restaurante",
+            "cantidad": 1000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Doctor",
+            "cantidad": 1000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Farmacia",
+            "cantidad": 1500
+          }
+        ],
+        "2023-04-24": [
+          {
+            "gasto": true,
+            "movimiento": "Bar",
+            "cantidad": 2000
+          },
+          {
+            "gasto": false,
+            "movimiento": "Transferencia",
+            "cantidad": 1000
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "mes": "Mayo",
+      "balance_mes": 1000,
+      "ingresos": 10000,
+      "egresos": 9500,
+      "movimientos": {
+        "2023-05-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-05-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-05-15": [
+          {
+            "gasto": true,
+            "movimiento": "Restaurante",
+            "cantidad": 1000
+          }
+        ],
+        "2023-05-24": [
+          {
+            "gasto": true,
+            "movimiento": "Bar",
+            "cantidad": 1000
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "mes": "Junio",
+      "balance_mes": 1500,
+      "ingresos": 10000,
+      "egresos": 9500,
+      "movimientos": {
+        "2023-06-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-06-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-06-15": [
+          {
+            "gasto": true,
+            "movimiento": "Restaurante",
+            "cantidad": 1000
+          }
+        ],
+        "2023-06-24": [
+          {
+            "gasto": true,
+            "movimiento": "Bar",
+            "cantidad": 1000
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "mes": "Julio",
+      "balance_mes": 2000,
+      "ingresos": 10000,
+      "egresos": 9500,
+      "movimientos": {
+        "2023-07-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-07-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-07-15": [
+          {
+            "gasto": true,
+            "movimiento": "Restaurante",
+            "cantidad": 1000
+          }
+        ],
+        "2023-07-24": [
+          {
+            "gasto": true,
+            "movimiento": "Bar",
+            "cantidad": 1000
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "mes": "Agosto",
+      "balance_mes": 2500,
+      "ingresos": 13000,
+      "egresos": 12500,
+      "movimientos": {
+        "2023-08-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-08-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-08-15": [
+          {
+            "gasto": true,
+            "movimiento": "Restaurante",
+            "cantidad": 1000
+          }
+        ],
+        "2023-08-24": [
+          {
+            "gasto": false,
+            "movimiento": "Transferencia",
+            "cantidad": 3000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Bar",
+            "cantidad": 4000
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "mes": "Septiembre",
+      "balance_mes": 3000,
+      "ingresos": 15000,
+      "egresos": 9500,
+      "movimientos": {
+        "2023-09-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-09-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-09-12": [
+          {
+            "gasto": false,
+            "movimiento": "Bono",
+            "cantidad": 5000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-09-15": [
+          {
+            "gasto": true,
+            "movimiento": "Restaurante",
+            "cantidad": 1000
+          }
+        ],
+        "2023-09-24": [
+          {
+            "gasto": true,
+            "movimiento": "Bar",
+            "cantidad": 1000
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "mes": "Octubre",
+      "balance_mes": 8500,
+      "ingresos": 10000,
+      "egresos": 9500,
+      "movimientos": {
+        "2023-10-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-10-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-10-15": [
+          {
+            "gasto": true,
+            "movimiento": "Restaurante",
+            "cantidad": 1000
+          }
+        ],
+        "2023-10-24": [
+          {
+            "gasto": true,
+            "movimiento": "Bar",
+            "cantidad": 1000
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "mes": "Noviembre",
+      "balance_mes": 9000,
+      "ingresos": 10000,
+      "egresos": 9500,
+      "movimientos": {
+        "2023-10-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-10-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-10-15": [
+          {
+            "gasto": true,
+            "movimiento": "Restaurante",
+            "cantidad": 1000
+          }
+        ],
+        "2023-10-24": [
+          {
+            "gasto": true,
+            "movimiento": "Bar",
+            "cantidad": 1000
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "mes": "Diciembre",
+      "balance_mes": 9500,
+      "ingresos": 20000,
+      "egresos": 19500,
+      "movimientos": {
+        "2023-10-01": [
+          {
+            "gasto": false,
+            "movimiento": "Nomina",
+            "cantidad": 10000
+          }
+        ],
+        "2023-10-06": [
+          {
+            "gasto": true,
+            "movimiento": "Walmart",
+            "cantidad": 6000
+          },
+          {
+            "gasto": true,
+            "movimiento": "Pull & Bear",
+            "cantidad": 1500
+          }
+        ],
+        "2023-10-15": [
+          {
+            "gasto": true,
+            "movimiento": "Restaurante",
+            "cantidad": 1000
+          }
+        ],
+        "2023-10-20": [
+          {
+            "gasto": false,
+            "movimiento": "Aguinaldo",
+            "cantidad": 10000
+          }
+        ],
+        "2023-10-24": [
+          {
+            "gasto": true,
+            "movimiento": "Vacaciones",
+            "cantidad": 9500
+          },
+          {
+            "gasto": true,
+            "movimiento": "Regalos",
+            "cantidad": 1500
+          }
+        ]
+      }
+    }
+  ]
+}
